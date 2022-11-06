@@ -17,7 +17,35 @@
 //     for (let index = 0; index < numbersArray.length; index += 1) {
 //     sum += numbersArray[index];
 //     }
-//    return sum 
+//    return sum
 
 // }
 // console.log(sum(numbers));
+// davaleba 3
+// let user = {
+//   firstname: 'giorgi',
+//   lastname: 'saakadze',
+//   age: 32,
+//   isloggedin: true
+// }
+// function getFullName (user) {
+//     if (user.isloggedin === true) {
+//         console.log(user.firstname + ' ' + user.lastname );
+//     }
+//     else {
+//         console.log(false);
+//     }
+// }
+// getFullName(user)
+// davaleba 4
+// let array = [1, 2, 4, 10, 34, 5, 7, 87];
+// function max(numbersArray) {
+//   let maximum = numbersArray[0];
+//   for (let index = 0; index < numbersArray.length; index += 1) {
+//     if (maximum < numbersArray[index]) {
+//       maximum = numbersArray[index];
+//     }
+//   }
+//   return maximum;
+// }
+// console.log(max(array));
