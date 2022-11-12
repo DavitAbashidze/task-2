@@ -49,3 +49,30 @@
 //   return maximum;
 // }
 // console.log(max(array));
+// davaleba 5
+// let array = [1, 2, 4, 10, 34, 5, 7, 87];
+// for (let index = 0; index < array.length; index += 1) {
+//     if (array[index] > 0 && array[index] < 10) {
+//         console.log(array[index]);
+//     }
+// }
+// davaleba 6
+// let numbers =[1,2,3,4,5,6,7,8,9,10]
+// for (let index = 0; index < numbers.length; index += 1) {
+//     if(numbers[index] === 5) {
+//         console.log(numbers[index]);
+//         break
+//     }
+// }
+// davaleba 7
+// let array = ["html", "css", "python", "javascript", "bootstrap"];
+// for (let index = 0; index < array.length; index += 1){
+//     if (array[index].length > 4 && array[index].includes("av") ) {
+//         console.log(array[index]);
+//     }
+// }
+// array.forEach((item) => {
+//   if (item.length > 4 && item.includes("av")) {
+//     console.log(item);
+//   }
+// });
